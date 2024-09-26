@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django Rest framework, Android development, machine learning and data analytics**
 
-- 👯 I’m looking to collaborate on [Quick-EatsProject](https://github.com/JauChian/Quick-EatsProject)
+- 👯 I’m currently working on a collaborate project [Quick-EatsProject](https://github.com/JauChian/Quick-EatsProject)
 
 - 📫 How to reach me **jauchianp@gmail.com**
 
