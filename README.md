@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jau-Chian Pan. You can also call me Joy.</h1>
-<h3 align="center">A passionate IT student</h3>
+<h3 align="center">A passionate IT student, currently in the third year of my studies in Unitec.</h3>
 
 - 🔭 I’m currently working on [Sport Quiz](https://github.com/JauChian/Quiz-Game)
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jauchianp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jauchianp" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jau-chian-pan-604365299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jauchianp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
