@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jau-Chian Pan. You can also call me Joy.</h1>
-<h3 align="center">A passionate IT student, currently in the third year of my studies in Unitec.</h3>
+<h1 align="center">Hi 👋 I'm Jau-Chian Pan You can also call me Joy</h1>
+<h3 align="center">A passionate IT student, currently in the third year of my studies </h3>
 
 - 🔭 I’m currently working on [Sport Quiz](https://github.com/JauChian/Quiz-Game)
 
