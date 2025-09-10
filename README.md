@@ -1,13 +1,27 @@
-<h1 align="center">Hi 👋 I'm Jau-Chian Pan You can also call me Joy</h1>
-<h3 align="center">A passionate IT student, currently in the third year of my studies </h3>
+<h1 align="center">Hi 👋 I'm Jau-Chian Pan (Joy)</h1>
+<h3 align="center">
+🎓 Recent Bachelor of Computing Graduate | 💻 Aspiring Full-Stack Developer | 🌏 Based in New Zealand
+</h3>
 
-- 🔭 I’m currently working on [Sport Quiz](https://github.com/JauChian/Quiz-Game)
+---
 
-- 🌱 I’m currently learning **Django Rest framework, Android development, machine learning and data analytics**
+I am an enthusiastic IT graduate with a strong foundation in **web development, mobile applications, data analytics, and AI integration**.  
+Throughout my studies and projects, I have gained hands-on experience with **React, Django, Android (Java), and machine learning workflows**, and I enjoy building solutions that combine both **technical depth and real-world usability**.  
 
-- 👯 I’m currently working on a collaborate project [Quick-EatsProject](https://github.com/JauChian/Quick-EatsProject)
+I am particularly passionate about:
+- Developing **full-stack applications** with smooth UI/UX and scalable backend systems  
+- Exploring **AI-driven tools** such as LlamaIndex + RAG and integrating them into chatbots (e.g., **LineRAGBot**)  
+- Applying **data analytics and BI tools** to uncover insights and support decision-making  
+- Collaborating in **Agile/Scrum environments**, continuously learning, and sharing knowledge  
 
-- 📫 How to reach me **jauchianp@gmail.com**
+Currently, I’m looking for an opportunity to **kickstart my career in the tech industry**, grow as a developer, and contribute to meaningful projects.  
+
+- 🌱 I’m improving my skills in **Django REST Framework, React, Android development, and machine learning**  
+- 🔭 Latest project: [**LineRAGBot**](https://github.com/JauChian/LineRAG-Bot)  
+- 📫 Reach me at: **jauchianp@gmail.com**  
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +29,62 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+---
+
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-FF1709?style=flat&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
+
+---
+
+### AI / Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F61?style=flat&logo=llama&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat&logo=scikit-learn&logoColor=white)
+![Data Analysis (R)](https://img.shields.io/badge/Data%20Analysis-R-276DC3?style=flat&logo=r&logoColor=white)
+
+---
+
+### Data / BI
+![ETL](https://img.shields.io/badge/ETL_Pipelines-4B8BBE?style=flat&logo=databricks&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-006272?style=flat&logo=amazon-dynamodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Database Design](https://img.shields.io/badge/Database_Design-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+---
+
+### Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![UAT](https://img.shields.io/badge/User%20Acceptance%20Testing-4285F4?style=flat&logo=google&logoColor=white)
+
+---
+
+### Tools & Collaboration
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-2496ED?style=flat&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jauchian&" alt="jauchian" /></p>
