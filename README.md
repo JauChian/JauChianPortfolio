@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Jau-Chian Pan (Joy)</h1>
 <h3 align="center">
-🎓 Recent Bachelor of Computing Graduate | 💻 Aspiring Full-Stack Developer | 🌏 Based in New Zealand
+🎓 Recent Bachelor of Computing Graduate | 💻 Full-Stack & AI Developer | 🌏 Based in New Zealand
 </h3>
 
 ---
