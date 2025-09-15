@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I'm Jau-Chian Pan (Joy)</h1>
 <h3 align="center">
-🎓 Recent Bachelor of Computing Graduate | 💻 Full-Stack & AI Developer | 🌏 Based in New Zealand
+🎓 Bachelor of Computing Graduate | 💻 Full-Stack & AI Engineer | 🌏 Based in New Zealand
 </h3>
+
 
 ---
 
@@ -10,7 +11,7 @@ Throughout my studies and projects, I have gained hands-on experience with **Rea
 
 I am particularly passionate about:
 - Developing **full-stack applications** with smooth UI/UX and scalable backend systems  
-- Exploring **AI-driven tools** such as LlamaIndex + RAG and integrating them into chatbots (e.g., **LineRAGBot**)  
+- Exploring **AI-driven tools** such as LlamaIndex + RAG and integrating them into chatbots
 - Applying **data analytics and BI tools** to uncover insights and support decision-making  
 - Collaborating in **Agile/Scrum environments**, continuously learning, and sharing knowledge  
 
@@ -21,9 +22,17 @@ Currently, I’m looking for an opportunity to **kickstart my career in the tech
 - 📫 Reach me at: **jauchianp@gmail.com**  
 
 ---
+![Projects Showcase](./my-projects.png)
+<h3 align="left">Explore more projects on my portfolio</h3>
+<p align="left">
+  <a href="https://jau-chain-dev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Here-blue?style=for-the-badge&logo=vercel" alt="Portfolio Link"/>
+  </a>
+</p>
 
+---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jau-chian-pan-604365299/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jauchianp" height="30" width="40" /></a>
 </p>
@@ -58,6 +67,7 @@ Currently, I’m looking for an opportunity to **kickstart my career in the tech
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F61?style=flat&logo=llama&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat&logo=scikit-learn&logoColor=white)
 ![Data Analysis (R)](https://img.shields.io/badge/Data%20Analysis-R-276DC3?style=flat&logo=r&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
